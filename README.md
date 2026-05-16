@@ -19,3 +19,9 @@ The dataset exhibits a class imbalance across various cancer types, with Breast 
 Install the necessary modeling and evaluation dependencies using your terminal:
 ```bash
 pip install torch transformers pandas scikit-learn matplotlib seaborn
+
+### 2. Execution
+To run the analysis pipeline, open the Jupyter Notebook inside VS Code or Jupyter Lab and select the Python kernel:
+
+1. Open **Finalized_project_5epochs.ipynb**
+2. Click **Run All** to execute all code blocks, train the architectures, and generate the comparative plots.
