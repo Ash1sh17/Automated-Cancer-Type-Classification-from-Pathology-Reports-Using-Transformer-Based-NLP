@@ -19,7 +19,8 @@ Steps to Execute in VS Code:
 1.  Clone the Repository
 Open the VS Code terminal using Cmd + backtick (or go to Terminal > New Terminal) and run:
 
-git clone https://github.com/Ash1sh17/Automated-Cancer-Type-Cl....git
+git clone https://github.com/Ash1sh17/Automated-Cancer-Type-Classification-from-Pathology-Reports-Using-Transformer-Based-NLP.git
+
 cd Automated-Cancer-Type-Classification
 
 2.  Create and Activate a Virtual Environment
